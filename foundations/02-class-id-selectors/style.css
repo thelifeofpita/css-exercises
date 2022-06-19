@@ -1,6 +1,6 @@
 .odd {
     background-color: hsl(360,50%,80%);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 .bigger {
     font-size: x-large;
