@@ -1,0 +1,16 @@
+.odd {
+    background-color: hsl(360,50%,80%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.bigger {
+    font-size: x-large;
+}
+#second {
+    font-size: xx-large;
+    color: hsl(240, 100%, 50%);
+}
+#fourth {
+    background-color: hsl(90, 80%, 80%);
+    font-size: large;
+    font-weight: 900;
+}
